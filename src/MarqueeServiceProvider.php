@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace Rushing\Marquee;
 
 use Illuminate\Cookie\Middleware\EncryptCookies;

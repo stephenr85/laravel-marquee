@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 use Illuminate\Support\Facades\Cache;
 use Rushing\Marquee\Contracts\ModeStore;
 use Rushing\Marquee\Mode;

@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 use Illuminate\Support\Facades\Gate;
 use Illuminate\Support\Facades\URL;
 use Rushing\Marquee\Contracts\ModeStore;

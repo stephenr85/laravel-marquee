@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 use Illuminate\Support\Facades\Gate;
 use Inertia\Inertia;
 use Rushing\Marquee\Contracts\ModeStore;

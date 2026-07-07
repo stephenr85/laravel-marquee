@@ -1,7 +1,5 @@
 <?php
 
-declare(strict_types=1);
-
 namespace Rushing\Marquee\Http\Controllers;
 
 use Illuminate\Http\RedirectResponse;
